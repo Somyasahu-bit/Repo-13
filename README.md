@@ -1,6 +1,5 @@
 # Repo-13
 else if
-// If else statement
 import java.util.Scanner;
 class elseif {
     public static void main(String[] args) {
